@@ -1,0 +1,38 @@
+# AI Prompts
+
+ChatGPT was used to generate the images of the animals in a consistent way across species.
+
+## Prompt used for generation of dog images:
+
+Create a photorealistic, full-body image of an adult [DOG BREED], standing naturally in a strict side profile and facing right.
+
+Show the entire dog, including all four paws, ears and tail. Use accurate breed-specific anatomy, proportions, coat texture, markings and colouring.
+
+The dog stands on a perfectly level, horizontal ground plane against a pure white, evenly lit studio background. Use a neutral eye-level camera angle, natural proportions, soft realistic shadows and consistent studio lighting.
+
+Keep the camera perspective neutral, with no wide-angle distortion. Do not enlarge the dog to fill the frame. Leave generous white space around the subject. No collar, leash, people, furniture, text, labels, borders or other objects.
+
+The image will be used in a collection of separate dog-breed images calibrated to a shared scale based on shoulder height. Prioritise realistic anatomy and a clear, unobstructed view of the dog's withers and feet.
+
+-----
+
+For the Rottweiler, I edited this to ask to show it growling.
+
+
+## Prompt used for generation of other animals:
+
+Create a photorealistic, full-body image of an adult [ANIMAL], standing naturally in a strict side profile and facing right.
+
+Show the entire animal. Use accurate anatomy, proportions, skin texture, markings and colouring.
+
+The animal stands on a perfectly level, horizontal ground plane against a pure white, evenly lit studio background. Use a neutral eye-level camera angle, natural proportions, soft realistic shadows and consistent studio lighting.
+
+Keep the camera perspective neutral, with no wide-angle distortion. Do not enlarge the animal to fill the frame. Leave generous white space around the animal. No collar, leash, people, furniture, text, labels, borders or other objects.
+
+The image will be used in a collection of separate images calibrated to a shared scale based on shoulder height. Prioritise realistic anatomy and a clear, unobstructed view of the animal's entire body.
+
+-----
+
+For the Rottweiler, German Shepherd, and the wolf, I edited the prompt to ask to show it growling.
+
+For the Whistling Kite and the frogs, I provided reference images of the real animals. 
